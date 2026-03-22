@@ -1,0 +1,27 @@
+{
+  "brand": {
+    "primary": "#7CBCBC",
+    "secondary": "#D4E9E9",
+    "accent": "#F59E0B",
+    "muted": "#B0A986"
+  },
+  "neutral": {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "lightGray": "#F3F4F6",
+    "mediumGray": "#9CA3AF",
+    "darkGray": "#778292"
+  },
+  "background": {
+    "page": "#FFFFFF",
+    "section": "#F3F4F6",
+    "card": "#FFFFFF",
+    "inverse": "#111827"
+  },
+  "text": {
+    "primary": "#000000",
+    "secondary": "#161616",
+    "muted": "#545964",
+    "inverse": "#FFFFFF"
+  }
+}
